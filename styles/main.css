@@ -1,0 +1,23 @@
+#parent{
+
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+    align-items: center;
+    justify-content:center;
+
+}
+
+#colorbox{
+width: 300px;
+height: 230px;
+background-color: pink;
+}
+
+#color-change-button{
+
+    position: relative;
+    top: 230px;
+
+
+}
